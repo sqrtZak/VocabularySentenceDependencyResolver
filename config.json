@@ -1,0 +1,8 @@
+{
+    "vocab_note_type": "Vocabulary",
+    "sentence_note_type": "Sentence",
+    "vocab_id_field": "Vocab_ID",
+    "sentence_deps_field": "Dependencies",
+    "maturity_interval": 14,
+    "apply_tag": "auto-unlocked"
+}
